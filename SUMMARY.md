@@ -28,4 +28,7 @@
 * [142. 环形链表 II](leetcode-index/142.-huan-xing-lian-biao-ii.md)
 * [144. 二叉树的前序遍历](leetcode-index/144.-er-cha-shu-de-qian-xu-bian-li.md)
 * [145. 二叉树的后序遍历](leetcode-index/145.-er-cha-shu-de-hou-xu-bian-li.md)
+* [160. 相交链表](leetcode-index/160.-xiang-jiao-lian-biao.md)
+* [168. Excel表列名称](leetcode-index/168.-excel-biao-lie-ming-cheng.md)
+* [189. 旋转数组](leetcode-index/189.-xuan-zhuan-shu-zu.md)
 
