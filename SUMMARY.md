@@ -23,4 +23,6 @@
 * [107. 二叉树的层次遍历 II](leetcode-index/107.-er-cha-shu-de-ceng-ci-bian-li-ii.md)
 * [110. 平衡二叉树](leetcode-index/110.-ping-heng-er-cha-shu.md)
 * [111. 二叉树的最小深度](leetcode-index/111.-er-cha-shu-de-zui-xiao-shen-du.md)
+* [112. 路径总和](leetcode-index/112.-lu-jing-zong-he.md)
+* [141. 环形链表](leetcode-index/141.-huan-xing-lian-biao.md)
 
