@@ -31,4 +31,5 @@
 * [160. 相交链表](leetcode-index/160.-xiang-jiao-lian-biao.md)
 * [168. Excel表列名称](leetcode-index/168.-excel-biao-lie-ming-cheng.md)
 * [189. 旋转数组](leetcode-index/189.-xuan-zhuan-shu-zu.md)
+* [191. 位1的个数](leetcode-index/191.-wei-1-de-ge-shu.md)
 
