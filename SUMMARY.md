@@ -11,4 +11,10 @@
 * [21. 合并两个有序链表](leetcode-index/21.-he-bing-liang-ge-you-xu-lian-biao.md)
 * [24. 两两交换链表中的节点](leetcode-index/24.-liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian.md)
 * [26. 删除排序数组中的重复项](leetcode-index/26.-shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-xiang.md)
+* [27. 移除元素](leetcode-index/27.-yi-chu-yuan-su.md)
+* [61. 旋转链表](leetcode-index/61.-xuan-zhuan-lian-biao.md)
+* [66. 加一](leetcode-index/66.-jia-yi.md)
+* [83. 删除排序链表中的重复元素](leetcode-index/83.-shan-chu-pai-xu-lian-biao-zhong-de-zhong-fu-yuan-su.md)
+* [92. 反转链表 II](leetcode-index/92.-fan-zhuan-lian-biao-ii.md)
+* [94. 二叉树的中序遍历](leetcode-index/94.-er-cha-shu-de-zhong-xu-bian-li.md)
 
