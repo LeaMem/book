@@ -43,5 +43,9 @@
 * [404. 左叶子之和](leetcode-index/404.md)
 * [451. 根据字符出现频率排序](leetcode-index/451.md)
 * [496. 下一个更大元素 I](leetcode-index/496.md)
-* [501. 二叉搜索树中的众数](leetcode-index/501.-er-cha-sou-suo-shu-zhong-de-zhong-shu.md)
+* [501. 二叉搜索树中的众数](leetcode-index/501.md)
+* [543. 二叉树的直径](leetcode-index/543.md)
+* [653. 两数之和 IV - 输入 BST](leetcode-index/653.md)
+* [682. 棒球比赛](leetcode-index/682.md)
+* [687. 最长同值路径](leetcode-index/687.md)
 
