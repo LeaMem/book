@@ -32,6 +32,7 @@
 * [168. Excel表列名称](leetcode-index/168.md)
 * [189. 旋转数组](leetcode-index/189.md)
 * [191. 位1的个数](leetcode-index/191.md)
+* [203. 移除链表元素](leetcode-index/203.-yi-chu-lian-biao-yuan-su.md)
 
 ## biz
 
